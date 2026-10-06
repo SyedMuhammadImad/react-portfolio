@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-07",
+  "title": "React portfolio",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "781f554d39dd27b018b3a63cba99c868b9f8dcb900d8ffdbce7e78f25f94a510",
+      "bytes": 698
+    },
+    {
+      "path": "eslint.config.js",
+      "sha256": "0197d9a843aaae267303c4d1ab1a43afad1afacc7646cdf6cf94a5af6b815fb8",
+      "bytes": 568
+    },
+    {
+      "path": "index.html",
+      "sha256": "819fc76bc2e29fd5483f3e4ea29e08800b5e40b2c219f3e15ffd3f90204fd20a",
+      "bytes": 329
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "50cf579242c4204d2713a12216b3248f36fbe951429bdd9fc3e5052bbc97a729",
+      "bytes": 84425
+    },
+    {
+      "path": "package.json",
+      "sha256": "999a8a98fa378afccce263b3fa89d3f64c85b3ee16fea8704803aa21e1039039",
+      "bytes": 609
+    },
+    {
+      "path": "README.md",
+      "sha256": "b4fbee4f0fdfe408654b1f992c82a4d00ae597f50e8e76101b8fba726d5acde5",
+      "bytes": 543
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "9f28440f463447d6c87c15c5c4fa03cbfe0bd0c4533c189a0eff16d2238dbc27",
+      "bytes": 694
+    },
+    {
+      "path": "vite.config.js",
+      "sha256": "4d36db3522a7b2dd10e0936e1004373c7ee65f10f7cd7920cd76410459c15a45",
+      "bytes": 161
+    },
+    {
+      "path": "src/App.css",
+      "sha256": "43175c1900d259005e6b5491077ac2adeb6f2cbaca8aeef861913d19fe1c8029",
+      "bytes": 3417
+    },
+    {
+      "path": "src/App.jsx",
+      "sha256": "3e2d975c5cb1000044a874a9c6ab4b0456423644504610ade0246446b3465cd0",
+      "bytes": 2763
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "dadf66a5dc24afb2e73adc9e0301bfd684ac63ef4b3c548400f7a670bd6ce60b",
+      "bytes": 407
+    },
+    {
+      "path": "src/main.jsx",
+      "sha256": "4b4b864dbe45253425d0c925337180ec07e204295179f80f59551216f466f618",
+      "bytes": 229
+    },
+    {
+      "path": "src/projects.js",
+      "sha256": "03edd04d3cd5a3b6d197da14c20104eb8f936eab42fbf0dd161d94ad76ba79f7",
+      "bytes": 1399
+    }
+  ]
+}
