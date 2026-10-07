@@ -16,7 +16,7 @@ export default function App() {
       </header>
       <main id="main">
         <section className="intro">
-          <p className="eyebrow">SOFTWARE & AI COURSEWORK</p>
+          <p className="eyebrow">SOFTWARE & AI project</p>
           <h1>Syed Muhammad<br /><span>Imad.</span></h1>
           <p className="lead">Building software, one tested idea at a time.</p>
           <a className="action" href="#projects">Explore the projects ↗</a>
@@ -29,7 +29,7 @@ export default function App() {
           <p className="result-count" aria-live="polite">{filtered.length} projects</p>
           <div className="project-grid">
             {filtered.map((project, index) => <article key={project.url}>
-              <p className="project-index">{String(index + 1).padStart(2, '0')} / COURSEWORK</p>
+              <p className="project-index">{String(index + 1).padStart(2, '0')} / project</p>
               <h3>{project.name}</h3><p>{project.description}</p>
               <a href={project.url} target="_blank" rel="noopener noreferrer">View repository ↗</a>
             </article>)}
@@ -37,7 +37,7 @@ export default function App() {
           {!filtered.length && <p className="empty">No matching projects. Try a different search.</p>}
         </section>
         <section id="about" className="about"><p className="eyebrow">THE APPROACH</p><h2>Learn. Build. Test.</h2>
-          <p>These repositories cover programming, data analysis, and machine learning coursework. Each project records what was checked and the limits of those checks.</p>
+          <p>These repositories cover programming, data analysis, and machine learning project. Each project records what was checked and the limits of those checks.</p>
           <a href="https://github.com/SyedMuhammadImad" target="_blank" rel="noopener noreferrer">Explore my GitHub ↗</a>
         </section>
       </main>

@@ -1,6 +1,6 @@
 # React portfolio
 
-A finished portfolio showing verified public coursework repositories. The original layout has been completed with working links, keyboard/touch navigation and responsive panels. Unsupported experience, live trading and fine-tuning claims were removed. No picture/video assets or credentials are included.
+A finished portfolio showing verified public project repositories. The original layout has been completed with working links, keyboard/touch navigation and responsive panels. Unsupported experience, live trading and fine-tuning claims were removed. No picture/video assets or credentials are included.
 
 ```sh
 npm ci
